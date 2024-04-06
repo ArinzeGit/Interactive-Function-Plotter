@@ -1,4 +1,5 @@
 # Interactive Function Plotter
+![](assets/PlotterScreenshot.PNG)
 ## Context and Description
 This project uses an external function plot library to plot functions. Input fields take the max and min x and y values, color of graph, and the function expression. A 'plot' button is also present. I did this project to practice using external JavaScript libraries.
 ## How to run
